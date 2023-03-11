@@ -1,3 +1,8 @@
+# virtual environment name
 /rlbots
+
+# Zipped learned models
 /models
+
+# Pycache
 __pycache__
